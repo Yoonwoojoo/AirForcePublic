@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e5dba726cf250d04e8e580ca81a4266b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgm: {instanceID: 0}
+  - shootSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
