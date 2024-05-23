@@ -259,7 +259,7 @@
 
 ## :spider_web: 와이어프레임
 
-![와이어프레임](https://github.com/ZhamesK/2024-Air-Force/assets/108499207/41c4f51b-cb2d-4f96-925f-ac9a81b4483a)
+![와이어프레임](https://github.com/ZhamesK/2024-Air-Force/assets/167274465/3255451c-e888-4138-a2ce-cabb83c4eff7)
 
 <br>
 
